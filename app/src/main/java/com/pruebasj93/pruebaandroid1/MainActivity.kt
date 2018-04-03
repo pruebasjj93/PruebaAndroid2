@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
 
         alert("Hola 2")
         {
-            positiveButton("Aceptar"){}
+            positiveButton("Aceptar 2"){}
         }.show()
     }
 }

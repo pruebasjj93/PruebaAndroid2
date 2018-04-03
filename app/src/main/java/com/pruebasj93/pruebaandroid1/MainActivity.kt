@@ -10,7 +10,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        alert("Hola")
+        alert("Hola 2")
         {
             positiveButton("Aceptar"){}
         }.show()
